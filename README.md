@@ -32,4 +32,4 @@ All the resources you'll need for the MLH Local Hack Day 2019
 
 
 ![Voiceano](https://pbs.twimg.com/profile_images/1068592180552523779/GD-yyYrf_400x400.jpg)
-## Organised by [Voiceano](https://twitter.com/_voiceano_)
+<p>Organised by <a href="https://twitter.com/_voiceano_">Voiceano</a></p>
