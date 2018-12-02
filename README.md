@@ -26,6 +26,10 @@ All the resources you'll need for the MLH Local Hack Day 2019
 1. [Ankit Jain](https://twitter.com/ankitjain28may)
 1. [Shlok Srivastava](https://www.linkedin.com/in/shlok15)
 
+## Judges for Most Innovative Hack
+
+1. [Alkesh Srivastava](https://twitter.com/_alkesh_)
+
 
 ![Voiceano](https://pbs.twimg.com/profile_images/1068592180552523779/GD-yyYrf_400x400.jpg)
 ## Organised by [Voiceano](https://twitter.com/_voiceano_)
