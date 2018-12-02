@@ -1,6 +1,7 @@
+# Local Hack Day Resources
+
 <p align="center"><img src="https://raw.github.com/mlh-noida-2019/localhackday-resources/master/local_hack_day.svg?sanitize=true" width=200 height=200>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.github.com/mlh-noida-2019/localhackday-resources/master/mlh.svg?sanitize=true" width=200 height=200></p>
 
-# localhackday-resources
 All the resources you'll need for the MLH Local Hack Day 2019
 
 ## Hackathon Themes
@@ -19,4 +20,12 @@ All the resources you'll need for the MLH Local Hack Day 2019
 1. [Local Hack Day](https://localhackday.mlh.io/live)
 1. [Github Education Pack](https://education.github.com/pack)
 
+## Judges
 
+1. [Aditya Agarwal](https://twitter.com/dev__adi)
+1. [Ankit Jain](https://twitter.com/ankitjain28may)
+1. [Shlok Srivastava](https://www.linkedin.com/in/shlok15)
+
+
+![Voiceano](https://pbs.twimg.com/profile_images/1068592180552523779/GD-yyYrf_400x400.jpg)
+## Organised by [Voiceano](https://twitter.com/_voiceano_)
