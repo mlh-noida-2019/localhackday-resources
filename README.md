@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.github.com/mlh-noida-2019/localhackday-resources/master/local_hack_day.svg?sanitize=true" width=200 height=200>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.github.com/mlh-noida-2019/localhackday-resources/master/mlh.svg?sanitize=true" width=200 height=200></p>
+
 # localhackday-resources
 All the resources you'll need for the MLH Local Hack Day 2019
 
